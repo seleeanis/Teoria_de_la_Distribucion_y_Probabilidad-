@@ -14,7 +14,7 @@
 
   <hr style="width:60%; border:1px solid #ff99cc;">
 
-  <h3><span style="color:#ff66b2;">👩🏻‍🏫 Docente:</span> <span style="color:black;">Ing. Cristian </span></h3>
+  <h3><span style="color:#ff66b2;">👩🏻‍🏫 Docente:</span> <span style="color:black;">Ing. Cristian Narváez </span></h3>
   <h3><span style="color:#ff66b2;">👩🏻‍🎓 Estudiante:</span> <span style="color:black;">Selena Castillo</span></h3>
 
   <br><br>
