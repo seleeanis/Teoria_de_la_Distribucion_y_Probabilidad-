@@ -36,10 +36,6 @@
     <img src="https://img.shields.io/badge/Abrir%20Unidad%202-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Unidad 2">
   </a>
   
-  <h3><span style="color:#ff66b2;"> —🧠 Unidad 3 —</span> <span style="color:black;"></span></h3>
-   <a href="unidad3.md">
-    <img src="https://img.shields.io/badge/Abrir%20Unidad%203-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Unidad 3">
-  </a>
   </div>
 
   <hr style="width:60%; border:1px solid #ff99cc;">
@@ -49,13 +45,3 @@
     <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
   </a>
   
-  <h3><span style="color:#ff66b2;">📚 Referencias</span></h3>
-<a href="referencias.md">
-    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
-  </a>
-  
-  <h3><span style="color:#ff66b2;">🤖 Uso de la Inteligencia Artificial</span></h3>
-  <a href="IA.md">
-    <img src="https://img.shields.io/badge/%20Ver%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Referencias">
-  </a>
-</p>
