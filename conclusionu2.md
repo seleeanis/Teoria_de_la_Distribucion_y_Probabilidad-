@@ -1,0 +1,13 @@
+# Conclusión de Aprendizaje de la Unidad 2
+
+Durante el desarrollo de la Unidad 2 fortalecí mis conocimientos sobre la inferencia estadística y comprendí cómo utilizar diferentes herramientas para analizar datos y tomar decisiones basadas en evidencia. A diferencia de la estadística descriptiva, aprendí que la inferencia estadística permite realizar conclusiones sobre una población a partir del estudio de una muestra, utilizando métodos científicos que respaldan los resultados obtenidos.
+
+A lo largo de las diferentes actividades prácticas, aprendí a formular correctamente hipótesis nulas y alternativas, establecer un nivel de significancia y utilizar el valor-p como criterio para aceptar o rechazar una hipótesis. También comprendí la importancia de verificar previamente los supuestos de normalidad antes de aplicar pruebas paramétricas, ya que esto permite seleccionar el procedimiento estadístico más adecuado y obtener resultados confiables.
+
+Otro aprendizaje importante fue el manejo de pruebas de hipótesis para una muestra, las pruebas T de Student para comparar dos grupos independientes y el Análisis de Varianza (ANOVA) para comparar tres o más grupos. Además, conocí la utilidad de la prueba Post Hoc de Tukey, la cual permite identificar específicamente entre qué grupos existen diferencias significativas cuando el ANOVA detecta diferencias generales.
+
+En el aspecto práctico, reforcé mis habilidades en el uso de Python para el análisis estadístico, utilizando librerías como **Pandas** para la manipulación de datos, **NumPy** para operaciones numéricas, **SciPy** para la ejecución de pruebas estadísticas y **Statsmodels** para desarrollar modelos e interpretar análisis de varianza. Estas herramientas facilitaron el procesamiento de bases de datos reales y demostraron la importancia de la programación como apoyo para el análisis estadístico.
+
+Asimismo, trabajar con la base de datos de la ENEMDU permitió aplicar todos estos conocimientos a un contexto real, analizando características de las viviendas ecuatorianas y comprendiendo cómo la estadística puede utilizarse para responder preguntas de investigación y apoyar la toma de decisiones basada en datos.
+
+En conclusión, esta unidad me permitió desarrollar competencias tanto estadísticas como computacionales, fortaleciendo mi capacidad para analizar información, interpretar resultados de manera crítica y justificar cada conclusión mediante evidencia científica. Estos conocimientos representan una base importante para futuros proyectos relacionados con ciencia de datos, investigación y desarrollo de soluciones informáticas que requieran el análisis e interpretación de grandes volúmenes de información.
