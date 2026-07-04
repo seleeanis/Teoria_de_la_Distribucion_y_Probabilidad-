@@ -27,9 +27,11 @@
 <div align="center">
 <p align="center">
   <h3><span style="color:#ff66b2;"> — DAATASET —</span> <span style="color:black;"></span></h3>
-  <a href="unidad1.md">
+  <a href="https://github.com/seleeanis/Teoria_de_la_Distribucion_y_Probabilidad-/blob/main/enemdu_vivienda_hogar_2026_02.csv">
     <img src="https://img.shields.io/badge/Abrir%20Dataset%20-ff69b4?style=for-the-badge&logo=github&logoColor=white" alt="Dataset">
   </a>
+
+ <hr style="width:60%; border:1px solid #ff99cc;">
   
   <h3><span style="color:#ff66b2;"> —🧩 Unidad 1 —</span> <span style="color:black;"></span></h3>
   <a href="unidad1.md">
